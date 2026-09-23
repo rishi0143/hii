@@ -3,7 +3,7 @@ name: KubeCIi
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   PythonCI:
